@@ -47,3 +47,8 @@
     * Wybiera opcję przeglądu statystyk.
     * Wpisanie danych, wyszukujących konkretne statystyki.
     * Przechodzenie po różnych stronach statystyk.
+
+#DIAGRAM:
+
+
+
