@@ -26,11 +26,11 @@
     * Wpisanie danych do przeglądania **(opcjonalne)**.
     * Przechodzenie po różnych stronach wyników.
 
-+ Dodawanie salda
-  - Cel: Wprowadzenie dostępnego salda.
++ Edytowanie salda
+  - Cel: Edycja dostępnego salda.
   - Kroki:
-    * Wybiera opcję dodania salda.
-    * Wprowadzenie kwoty.
+    * Wybiera opcję edycji salda.
+    * Wprowadzenie zmienionej kwoty.
     * Akceptacja wpisanej kwoty.
 
 + Dodawanie nowej transakcji
