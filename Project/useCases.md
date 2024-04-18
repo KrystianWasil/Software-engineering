@@ -48,7 +48,9 @@
     * Wpisanie danych, wyszukujących konkretne statystyki.
     * Przechodzenie po różnych stronach statystyk.
 
-#DIAGRAM:
+***DIAGRAM***:
+![image](https://github.com/KrystianWasil/Software-engineering/assets/151478479/3adf2d66-a608-4cb0-94c7-c0484cab2da4)
+
 
 
 
