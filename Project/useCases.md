@@ -50,6 +50,9 @@
 
 ***DIAGRAM***:
 ![image](https://github.com/KrystianWasil/Software-engineering/assets/151478479/3adf2d66-a608-4cb0-94c7-c0484cab2da4)
+***Activity Diagram***:
+![image](https://github.com/KrystianWasil/Software-engineering/assets/151478479/02a16ef2-276c-4511-8938-20027449a82c)
+
 
 
 
